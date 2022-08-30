@@ -1,2 +1,1 @@
-updating my readme from github
-updating readme file
+update readme.md
